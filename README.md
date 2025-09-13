@@ -1,2 +1,1 @@
-# output_factors
-个人网站代码
+个人网站
